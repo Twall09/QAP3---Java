@@ -3,7 +3,7 @@ You are allowed to complete the assessment problems below in whatever way you ca
 
 1.	How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
 
-    I would say roughly 6 hours.
+    I would say roughly 6-8 hours broken into sections
 
 2.	What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
 
@@ -19,4 +19,5 @@ You are allowed to complete the assessment problems below in whatever way you ca
 
 5.	Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
 
-    I never found it very difficult. Sometimes coding Java can be time consuming, but other than that it is not too bad.
+    I never found it too difficult other than Problem 3 and 4 were a little tricky. I think where it never displayed a guide,
+    it took some research for that. Sometimes coding Java can be time consuming, but other than that it is not too bad.
